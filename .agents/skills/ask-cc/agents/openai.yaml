@@ -1,0 +1,3 @@
+display_name: Ask CC
+short_description: Generate natural, defensible Chinese interview answers from Yuyang Chen's resume context and answer standards.
+default_prompt: "帮我根据 Ask CC 的标准准备这个面试问题："
